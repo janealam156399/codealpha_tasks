@@ -1,0 +1,9 @@
+1:scapy
+2: Install Npcap (for Windows):
+https://npcap.com/
+
+---
+
+## ▶️ Usage
+
+Run the script as administrator:

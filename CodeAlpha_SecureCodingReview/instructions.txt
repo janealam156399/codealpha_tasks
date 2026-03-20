@@ -1,0 +1,17 @@
+## 📚 What I Learned
+
+- Importance of secure coding
+- Password hashing
+- Identifying vulnerabilities
+- Writing safer code
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for educational purposes only.
+
+---
+
+## 👨‍💻 Author
+Jan E Alam
